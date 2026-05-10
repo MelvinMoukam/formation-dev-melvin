@@ -1,4 +1,4 @@
-- Sur Openclassrooms , j'ai lu et le chapitre sur "Posez les fondations" du cours : "Découvrez lz fonctionnement des algorithmes"
+- Sur Openclassrooms , j'ai lu le chapitre sur "Posez les fondations" du cours : "Découvrez lz fonctionnement des algorithmes"
 En résumé, j'ai compris : 
     - Qu'il faut toujours penser à découper un problème en sous problèmes plus simpe à résoudre;
     - Qu'il faut utiliser du pseudo-code pour décrire son algorithme;
